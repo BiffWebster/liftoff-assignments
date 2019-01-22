@@ -7,11 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+For my project, we will praise the Dark Lord in the form of a simple web-based app. I will include a (or perhaps several) simple games, a comments section, videos and I havern't decided what else yet.
 ### Features
-Include Features here
+Login
+Social media connectivity
+Search
+Create post
 ### Technologies
-Include Technologies here
-
+ASP.NET MVC
 ### What I'll Have to Learn
-Include what you will need to learn here
+Hashing
+Social Media plug-ins?
+regex
