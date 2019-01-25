@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-For my project, we will praise the Dark Lord in the form of a simple web-based app. I will include a (or perhaps several) simple games, a comments section, videos and I havern't decided what else yet.
+For my project, I will be creating a simple metal news site. Site will feature user-submitted news, videos, blogs and community. This overview does not require more than a sentence and I resent being expected to write two paagraphs about it.
 ### Features
 Login
 Social media connectivity
