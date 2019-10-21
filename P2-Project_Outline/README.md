@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-For my project, I will be creating a simple metal news site. Site will feature user-submitted news, videos, blogs and community. This overview does not require more than a sentence and I resent being expected to write two paagraphs about it.
+For my project, I will be creating a simple metal news site. Site will feature user-submitted news, videos, blogs and community. 
 ### Features
 Login
 Social media connectivity
